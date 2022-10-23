@@ -12,6 +12,7 @@
     "atmelavr",
     "atmelsam",
     "teensy",
-    "espressif"
+    "espressif",
+    "espressif32"
   ]
 }
